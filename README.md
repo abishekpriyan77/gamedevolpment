@@ -51,3 +51,7 @@
 
 
 ## OUTPUT:
+<img width="1984" height="2806" alt="image" src="https://github.com/user-attachments/assets/c8df03c2-9450-4c77-bda7-8c2f08a5d600" />
+
+## RESULT:
+Thus, the image was edited using editing software and the output was verified.
